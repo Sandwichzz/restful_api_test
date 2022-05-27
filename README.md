@@ -18,6 +18,6 @@ https://github.com/hellokoding/restfulapi-springboot-springdatarest-mysql
 `mvn clean spring-boot:run`
 
 ## Notice
-1.在基础上进行了内容补充，注释增加。基本的增删改查已存在。
-2.部署有对应的文档，可以直接根据文档来进行部署。
-3.注意项目Mysql的版本为8.0+ 请注意版本。
+-1.在基础上进行了内容补充，注释增加。基本的增删改查已存在。
+-2.部署有对应的文档，可以直接根据文档来进行部署。
+-3.注意项目Mysql的版本为8.0+ 请注意版本。
