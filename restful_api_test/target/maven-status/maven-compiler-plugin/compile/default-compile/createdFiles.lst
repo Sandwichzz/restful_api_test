@@ -1,0 +1,6 @@
+com\swztest\restfulapi\model\baseModel.class
+com\swztest\restfulapi\com\controller\PicturehttpController.class
+com\swztest\restfulapi\repository\PictureRepository.class
+com\swztest\restfulapi\Application.class
+com\swztest\restfulapi\SendMessage.class
+com\swztest\restfulapi\model\Picture.class
